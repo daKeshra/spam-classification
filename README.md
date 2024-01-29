@@ -1,6 +1,6 @@
 ## Detecting Spam sms using MulinomialNB model
 ### Steps applied
-* filter
+* filtering
 * Tokenization
 * Bag of Words
 * Vectorization
